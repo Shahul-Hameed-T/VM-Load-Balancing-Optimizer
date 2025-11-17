@@ -1,0 +1,10 @@
+{
+  "total_requests": 2358,
+  "rejected": 42,
+  "avg_ram": 783.1697606429605,
+  "std_ram": 44.41723411699461,
+  "avg_cpu": 1.9530145328616233,
+  "std_cpu": 0.09635259291826828,
+  "overload_ram_events": 0,
+  "overload_cpu_events": 833
+}
